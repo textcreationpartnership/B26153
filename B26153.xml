@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For prevention of many incumbrances and annoyances which daily happen to the streets and passengers, by the irregular and disorderly standing of carrs ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26153</idno><idno type="EEBO-CITATION">18504946</idno>
+  <idno type="VID">206512</idno>
+  <idno type="EEBO-PROQUEST">2240854330</idno>
+  
+            <idno type="STC">Wing L2864T</idno>
+            <idno type="OCLC">18504946</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206512)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:70)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For prevention of many incumbrances and annoyances which daily happen to the streets and passengers, by the irregular and disorderly standing of carrs ...</title>
+                  <author>City of London (England).</author>
+                  <author>Ward, Patience, Sir, 1629-1696.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first two lines of text.</note>
+                  <note>At head of title: Ward mayor. Jovis, v[i]cessimo die Octobr. 1681. Annoque [r]egni Regis Caroli Secundi, Angliæ, &amp;c. tricesim[o] [t]ertio.</note>
+                  <note>Imperfect: creased and torn, with loss of print.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Carriages and carts --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:206512:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of London</figDesc>
+               </figure>
+               <hi>Ward Mayor.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Jovis,</hi> V<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cessimo <hi>die Octobr. 1681.</hi> Annoque <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>egni Regis <hi>CAROLI</hi> Secundi, <hi>Angliae,</hi> &amp;c. Tricesim ertio.</date>
+               </dateline>
+            </opener>
+            <p>FOR Prevention of many Incumbrances and Annoyances which daily happen to the Streets and Passengers, by the irregular and disorderly standing of Carrs, and passing up and down the Streets; It is Ordered by this Court, That the present Number of Carrs Licensed, or that shall be Licensed by the President and Governors of <hi>Christ</hi>'s <hi>Hospital,</hi> to Work within this City and the Liberties thereof for Hire, pursuant to an Act of Common-Council, of the 15th Instant, shall from henceforth observe and keep such Stations and Places, and Rules of the Standing of the Horses and Carrs in the several Streets of this City, and passing up and down the Streets, as are hereafter limited and appointed, and that they shall stand in no other Places within this City or Liberties thereof, nor in any greater Number than is hereafter set down. That is to say,</p>
+            <p>FROM <hi>Brewers Key</hi> along <hi>Thames street</hi> to the first <hi>Custom House Gate,</hi> TWELVE; from the <hi>West Gate</hi> of the <hi>Custom House</hi> to <hi>Porters Key,</hi> TWO; from <hi>Porters key</hi> to <hi>Little Bear Key,</hi> THREE; from <hi>Little Bear Key</hi> to <hi>Young</hi>'s <hi>Key,</hi> FOUR; from <hi>Young</hi>'s <hi>Key</hi> to <hi>Ralph</hi>'s <hi>Key,</hi> THREE; from <hi>Ralph</hi>'s <hi>Key</hi> to <hi>Great Dice Key,</hi> TWO; from <hi>Great Dice Key</hi> to <hi>Smart</hi>'s <hi>Key,</hi> TWO; from <hi>Little Sommers Key</hi> to <hi>Botolph Wharf,</hi> TWO; from <hi>Botolph Wharf</hi> to <hi>Cox Key,</hi> TWO; from <hi>Cox Key</hi> to <hi>Fresh Wharf,</hi> TWO; from <hi>Fresh Wharf</hi> to St. <hi>Magnus Corner,</hi> SIX; at St. <hi>Dunstan</hi>'s <hi>Hill,</hi> FOUR; from <hi>New Fish street</hi> to the <hi>Still Yard</hi> SIXTEEN; from the <hi>Still Yard</hi> to the <hi>Crooked Billet Wharfs,</hi> TWENTY; from the <hi>Crocked Billet Wharfs</hi> to the <hi>Black Swan,</hi> TWELVE; from the <hi>Black Swan</hi> to <hi>Brooks Wharf,</hi> TWELVE; from <hi>Brooks Wharf</hi> to <hi>Castle Alley,</hi> TWENTY; from <hi>Paul</hi>'s <hi>Wharf</hi> to <hi>Puddle Dock,</hi> TEN; from <hi>Veres Key</hi> and all Places thereabouts that have Passages up <hi>Puddle Dock Hill,</hi> TWENTY; (and that all Carts standing in <hi>Thames street,</hi> shall stand on the <hi>South</hi> Side of the said Street only) at <hi>Black Friers,</hi> SIX; <hi>Bridewell,</hi> TEN; <hi>Carter Lane,</hi> FIVE; <hi>Salisbury Court,</hi> TEN; on the <hi>East</hi> Side of <hi>Fleet Ditch,</hi> FIVE; on the <hi>West</hi> Side of <hi>Fleet Ditch,</hi> FIVE; at <hi>White Friers,</hi> FIVE; at <hi>Bridewell Dock,</hi> FI<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; a little upon <hi>Holborn Hill</hi> Westward, FOUR; <hi>Eastward</hi> of <hi>Holborn</hi> between the <hi>Bridge</hi> and <hi>King</hi>'s <hi>Arms,</hi> TWO; <hi>West Smithfield</hi> and abo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the <hi>Bars,</hi> FIFTEEN; <hi>Aldersgate,</hi> SIX; <hi>Bread street,</hi> SIX; <hi>Friday street,</hi> SIX; <hi>Aldermanbury,</hi> TWO; <hi>Silver street,</hi> TWO; <hi>Bassishaw street,</hi> TWO; <hi>Broad street,</hi> FOUR; <hi>Bishopsgate</hi> without, SIX; <hi>Bishopsgate</hi> within, EIGHT; St. <hi>Mary Ax</hi> and up <hi>Camomile street,</hi> SIX; without <hi>Aldg<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> towards <hi>White Chappel,</hi> TEN; <hi>Crutched Friers,</hi> TEN; <hi>Cross Lane</hi> from St. <hi>Dunstan</hi>'s <hi>Hill</hi> to <hi>Harp Lane,</hi> SIX; <hi>Dukes Place,</hi> SIX; <hi>Bury street,</hi> FOUR; <hi>Lawrence Pountney Lane</hi> and the Passage into <hi>Suffolk Lane,</hi> FOU<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Dowgate Hill,</hi> SIX; <hi>Coleman street,</hi> FOUR; <hi>Philpot Lan<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> FOUR; <hi>Botolph Lane,</hi> FIVE; <hi>Harp Lane,</hi> SIX; <hi>Bear Lane,</hi> SIX; in <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>street</hi> where the Church and Pump stood, FOUR; <hi>Leadenhall street</hi> between the <hi>East India House</hi> and Pump, THREE; <hi>Lime street,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Weigh House Yard,</hi> ONE.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ordered by this Court, That if any Carr-man or Carr-men shall at any Time hereafter be sound standing <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Place or Places <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this City or Liberties thereof, unless it be during reasonable Time for Loading or Unloading of Goods and <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>modities, or any greater Numbers of Carrs in any the Places aforesaid, than is hereby limited and appointed, every Offender or Offenders coming into any of the aforesaid Places after the same shall be full of the Number of Carrs before limited, shall forfeit for the first Offence the Sum of five Shillings, for the Second and every other Offence ten Shillings.</p>
+            <p>THAT no Carter or Carr-man shall hereafter come into <hi>Thames street</hi> by St. <hi>Magnus Corner</hi> Eastward, with his or their empty Cart or Carr before such Time as he or they shall be hired to come into the same Street for Lading or Carrying: But that the Lanes and Passages hereafter mentioned shall be used only for such empty Carrs to pass and take their Way through into the said Street, and no other, that is to say, the Lane leading down to <hi>Tower Dock, Bear Lane, Harp Lane, Botolph Lane, Pudding Lane,</hi> St. <hi>Michael</hi>'s <hi>Lane,</hi> St. <hi>Lawrence Pountney Lane, Bush Lane, Trinity Lane,</hi> and all other Lanes Westward, except the Lanes and Places hereafter limited for Loaden Carts to pass through from the said Street.</p>
+            <p>AND that all Carrs and Carts Loaden; passing out of and from <hi>Thames street,</hi> shall from thence pass and go up through these Lanes and Places following, or some of them, and no other, That is to say, the Hill leading from <hi>Tower Dock</hi> to the <hi>East</hi> End of <hi>Tower street,</hi> St. <hi>Dunstan</hi>'s Hill, St. <hi>Mary Hill,</hi> St. <hi>Martin</hi>'s <hi>Lane, Dowgate Hill, Garlick Hithe, Bread street Hill,</hi> and that no empty Carr or Cart passing to the said Street (other than such as having been unladen in some of the Lanes or Places before mentioned shall be occasioned to pass to the said Street immediately after such unlading) shall go down the Hills, Lanes, or Places last before mentioned: But the same shall be kept only for the passing of Carrs and Carts laden. But that as well the said empty Carrs, as Carts laden, shall and may pass into and from <hi>Thames street,</hi> through the several Lanes and Places hereafter mentioned; That is to say, <hi>Fish street Hill, Whittington Lane Hill,</hi> and the <hi>Wardrobe Hill,</hi> except as before is limited. Also that all Carrs laden may go into the said Street down all Places as shall be best and most easy for them, as hath been always accustomed, upon Pain that every Carr-man Offending in any of the aforesaid Particulars, shall forfeit and pay for his or their first Offence five Shillings, and for their second and every other Offence the Sum of ten Shillings.</p>
+            <p>AND it is further Ordered, That it shall be free for all Merchants, Shopkeepers, and others that have occasion to use Carrs or Carts, to chuse what Carrs they shall please to be imployed in their Work, except such as stand for Wharf-work, Tackle-work, and Crane-work, which are to stand in Order and be taken in Turn, and that every Carr-man who stands with his empty Cart next to any Goods that are to be Loaden, shall on the first Demand Load the same without any Delay or Bargaining for any other Wages than is or shall be duly ordained or appointed; And if the first, next or other Cart shall refuse or delay to Load any Goods upon Request made, every Person so refusing shall forfeit five Shillings for every such Offence, and then the next Cart in Order, or any other that shall be willing thereto, shall be at Liberty to take the same.</p>
+            <p>FURTHER it is Ordered, That all the Posts, Chains, Rails and Seats, that have been at any Time within twenty Years last past set up and erected within any of the Streets, Lanes or Passages hereby limited, as aforesaid, for the Passage of Carrs and Carts into, and from <hi>Thames street,</hi> that may any way obstruct the said Passage, shall be forthwith taken up and removed.</p>
+            <p>AND to the End all Persons concerned may take Notice hereof, It is Ordered by this Court, That this Order be forthwith Printed, and Published within this City and Liberties thereof.</p>
+            <closer>
+               <signed>WAGSTAFFE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
